@@ -26,7 +26,7 @@
 			<code>414</code>
 		</td>
 		<td>
-			<code>1996</code>
+			<code>2001</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,7 +164,7 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/1/19 12:26 PM UTC</i></small>
+<small><i>Last updated on 2025/1/19 6:18 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
