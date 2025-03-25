@@ -37,6 +37,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/PBH-BTN/views-counter/tree/master/readme/792975044/year.md">
+				BTN-Collected-Rules
+			</a>
+		</td>
+		<td>
+			2025/3/23 12:00 AM UTC
+		</td>
+		<td>
+			6528
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/PBH-BTN/views-counter/raw/master/graph/792975044/small/year.png" height="20"> 18655
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/PBH-BTN/views-counter/tree/master/readme/841614381/year.md">
 				Sparkle
 			</a>
@@ -53,7 +69,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/3/25 1:16 AM UTC</i></small>
+<small><i>Last updated on 2025/3/25 6:23 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
